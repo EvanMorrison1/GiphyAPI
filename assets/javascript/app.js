@@ -1,6 +1,6 @@
 $( document ).ready(function() {
     // An array of rappers, new rappers will be pushed into this array;
-    var rappers = ["Tupac", "Kanye West", "2 Chainz", "Gucci Mane", "Jay-Z", "Beyonce", "Lauryn Hill", "Lil B", "Nas", "Biggie Smalls", "Busta Rhymes", "Eminem", "Andre 3000", "Frank Ocean", "Wu Tang Clan", "Kendrick Lamar", "SZA", "Chance the Rapper"];
+    var rappers = ["Tupac", "Kanye West", "2 Chainz", "Gucci Mane", "Jay-Z", "Beyonce", "Pimp C", "Lauryn Hill", "Lil B", "Nas", "Biggie Smalls", "Busta Rhymes", "Eminem", "Andre 3000", "Frank Ocean", "Wu Tang Clan", "Kendrick Lamar", "SZA", "Chance the Rapper"];
     // Creating Functions & Methods
     // Function that displays all gif buttons
     function displayGifButtons(){
